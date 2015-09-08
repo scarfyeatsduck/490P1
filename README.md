@@ -1,4 +1,6 @@
 # 490P1
 COMP 490 Project 1
 
-This program does the following:
+when run from main():
+
+Creates a die and rolls it 5 times.
